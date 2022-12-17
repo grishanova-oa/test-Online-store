@@ -6,5 +6,5 @@ const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
-  <div> Приложение работает? это точно?</div>
+  <div> Приложение работает? это точно? и сегодня ?</div>
 );
